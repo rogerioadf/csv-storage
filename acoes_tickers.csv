@@ -1,0 +1,60 @@
+,Ticker,Setor,Empresa,COTACAO,VARIACAO DO DIA,,IBOV,VALORIZACAO,VARIACAO DO DIA,,VIX,"14,85",,,0%,,,data de busca para aba pagamento de dividendos,,,,ACAO,ELETRICO,,"0,0000000001",,ticker,media,Yield vs Preço,ordem,6,9,10,,da carteira,sub-categoria
+1,AGRO3,AGRO,BRASIL AGRO,"20,75","0,00%",Acao,"103921,59","139205,81","137772,8",,,,,,,,,01/01/2025,,importante,,ACAO,BANCO,,"0,0000000002",,AGRO3," R$  2,62 ","12,63%",Acao,"R$ 43,67","R$ 29,11","R$ 26,20",5 Anos,Sim,Acao
+2,SLCE3,AGRO,SLC AGRICOLA,"17,41","0,00%",Acao,,"33,95%","1,04%",,,,,,,,,,,Acao,,ACAO,SEGURO,,"0,0000000003",,SLCE3," R$  0,83 ","4,77%",Acao,"R$ 13,83","R$ 9,22","R$ 8,30",5 Anos,Sim,Acao
+3,ABCB4,BANCO,BANCO ABC,22,"0,00%",Acao,,,,,,,dolar,"5,4186",,,,,,FII,,ACAO,HOLDING,,"0,0000000004",,ABCB4," R$  1,21 ","5,48%",Acao,"R$ 20,10","R$ 13,40","R$ 12,06",5 Anos,Sim,Acao
+4,BBAS3,BANCO,BANCO DO BRASIL,"20,63","0,00%",Acao,,,,,,,,,,,,,,,,ACAO,MINERACAO,,"0,0000000005",,BBAS3," R$  2,07 ","10,03%",Acao,"R$ 34,50","R$ 23,00","R$ 20,70",5 Anos,Sim,Acao
+5,BBDC4,BANCO,BRADESCO,"16,43","0,00%",Acao,,,,,,,,,,IMPOSTO ACOES,0%,,,,,ACAO,SANEAMENTO,,"0,0000000006",,BBDC4," R$  0,99 ","6,05%",Acao,"R$ 16,57","R$ 11,04","R$ 9,94",5 Anos,Sim,Acao
+6,BRSR6,BANCO,BANRISUL,"11,42","0,00%",Acao,2025,"R$ 1.518,00",,,,,,,,IMPOSTO FIIs,0%,,,,,ACAO,TELEFONIA,,"0,0000000007",,BRSR6," R$  0,87 ","7,62%",Acao,"R$ 14,50","R$ 9,67","R$ 8,70",5 Anos,Sim,Acao
+7,ITUB4,BANCO,ITAU,"37,57","0,00%",Acao,,,,,,,,,,,,,,,,ACAO,AGRO,,"0,0000000008",,ITUB4," R$  1,26 ","3,35%",Acao,"R$ 21,00","R$ 14,00","R$ 12,60",5 Anos,Sim,Acao
+8,SANB11,BANCO,SANTANDER,"27,76","0,00%",Acao,ifix,VALORIZACAO,VARIACAO DO DIA,,,,,,,,,,SELIC,,,ACAO,PETROLEO,,"0,0000000009",,SANB11," R$  2,23 ","8,05%",Acao,"R$ 37,23","R$ 24,82","R$ 22,34",5 Anos,Sim,Acao
+9,SANB4,BANCO,SANTANDER,"14,65","0,00%",Acao,"2.789,14","3441,52","3440,31",,,,,,,,data de 7 dias antes,20/08/2025,"14,90%",,,ACAO,QUIMICO,,"0,000000001",,SANB4," R$  1,17 ","7,97%",Acao,"R$ 19,47","R$ 12,98","R$ 11,68",5 Anos,Sim,Acao
+10,ALUP11,ELETRICO,ALUPAR,"29,5","0,00%",Acao,,"23,39%","0,04%",,,,,,,,data do dia,27/08/2025,"14,90%",,,ACAO,METALURGICO,,"0,0000000011",,ALUP11," R$  1,19 ","4,05%",Acao,"R$ 19,90","R$ 13,27","R$ 11,94",5 Anos,Sim,Acao
+11,CMIG4,ELETRICO,CEMIG,"11,07","0,00%",Acao,,,,,,,,,,,,,,,,ACAO,PAPEL/ CELULOSE,,"0,0000000012",,CMIG4," R$  1,21 ","10,91%",Acao,"R$ 20,13","R$ 13,42","R$ 12,08",5 Anos,Sim,Acao
+12,COCE3,ELETRICO,COELCE,36,"0,00%",Acao,,,,,,,,,,,,,,,,FII,FUNDO IMOBILIARIO,,"0,0000000013",,COCE3," R$  1,78 ","4,96%",Acao,"R$ 29,73","R$ 19,82","R$ 17,84",5 Anos,Sim,Acao
+13,CPFE3,ELETRICO,CPFL ENERGIA,"39,31","0,00%",Acao,,,,,,,,,,,,,,,,FII,PAPEL,,"0,0000000014",,CPFE3," R$  2,88 ","7,32%",Acao,"R$ 47,93","R$ 31,96","R$ 28,76",5 Anos,Sim,Acao
+14,CPLE6,ELETRICO,COPEL,"12,13","0,00%",Acao,idiv,VALORIZACAO,VARIACAO DO DIA,,,,,,,,,,,,,FII,FIAGRO,,"0,0000000015",,CPLE6," R$  0,42 ","3,46%",Acao,"R$ 7,00","R$ 4,67","R$ 4,20",5 Anos,Sim,Acao
+15,EGIE3,ELETRICO,ENGIE,"39,64","0,00%",Acao,"6.982,97","10131,59","10043,1",,,,,,,,,,,,,FII,TIJOLO,,"0,0000000016",,EGIE3," R$  2,41 ","6,09%",Acao,"R$ 40,23","R$ 26,82","R$ 24,14",5 Anos,Sim,Acao
+16,ELET6,ELETRICO,ELETROBRAS,"46,35","0,00%",Acao,,"45,09%","0,88%",,,,,,,,,,,,,FII,FI INFRA,,"0,0000000017",,ELET6," R$  1,83 ","3,95%",Acao,"R$ 30,50","R$ 20,33","R$ 18,30",5 Anos,Sim,Acao
+17,ENGI11,ELETRICO,ENERGISA,"48,16","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,ENGI11," R$  1,16 ","2,41%",Acao,"R$ 19,33","R$ 12,89","R$ 11,60",5 Anos,Sim,Acao
+18,EQTL3,ELETRICO,EQUATORIAL,"36,25","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,EQTL3," R$  0,45 ","1,24%",Acao,"R$ 7,50","R$ 5,00","R$ 4,50",5 Anos,Sim,Acao
+19,ISAE4,ELETRICO,ISA CTEEP,"22,7","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,ISAE4," R$  1,72 ","7,57%",Acao,"R$ 28,63","R$ 19,09","R$ 17,18",5 Anos,Sim,Acao
+20,TAEE11,ELETRICO,TAESA,"34,44","0,00%",Acao,,https://br.investing.com/equities/brasil-on,,,,,,,,,,,,,,,,,,,TAEE11," R$  3,53 ","10,25%",Acao,"R$ 58,83","R$ 39,22","R$ 35,30",5 Anos,Sim,Acao
+21,TAEE4,ELETRICO,TAESA,"11,47","0,00%",Acao,,"//*[@id=""__next""]/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",,,,,,,,,,,,,,,,,,,TAEE4," R$  1,18 ","10,29%",Acao,"R$ 19,67","R$ 13,11","R$ 11,80",5 Anos,Sim,Acao
+22,BRAP4,HOLDING,BRADESPAR,"16,27","0,00%",Acao,,"20,63",,,,,,,,,,,,,,,,,,,BRAP4," R$  3,02 ","18,56%",Acao,"R$ 50,33","R$ 33,56","R$ 30,20",5 Anos,Sim,Acao
+23,ITSA4,HOLDING,ITAUSA,"11,04","0,00%",Acao,,"20,63",,,,,,,,,,,,,,,,,,,ITSA4," R$  0,58 ","5,25%",Acao,"R$ 9,67","R$ 6,44","R$ 5,80",5 Anos,Sim,Acao
+24,FESA4,METALURGICO,FERBASA,"6,39","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,FESA4," R$  0,53 ","8,29%",Acao,"R$ 8,83","R$ 5,89","R$ 5,30",5 Anos,Sim,Acao
+25,CMIN3,MINERACAO,CSN MINERACAO,"5,11","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,CMIN3," R$  0,73 ","14,24%",Acao,"R$ 12,13","R$ 8,08","R$ 7,28",4 Anos,Sim,Acao
+26,VALE3,MINERACAO,VALE,"55,38","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,VALE3," R$  6,08 ","10,98%",Acao,"R$ 101,33","R$ 67,56","R$ 60,80",5 Anos,Sim,Acao
+27,KLBN11,PAPEL/ CELULOSE,KLABIN,"18,37","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,klBN11," R$  0,92 ","5,03%",Acao,"R$ 15,40","R$ 10,27","R$ 9,24",5 Anos,Sim,Acao
+28,KLBN4,PAPEL/ CELULOSE,KLABIN,"3,67","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,KLBN4," R$  0,18 ","4,98%",Acao,"R$ 3,05","R$ 2,03","R$ 1,83",5 Anos,Sim,Acao
+29,PETR4,PETROLEO,PETROBRAS,"30,66","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,PETR4," R$  7,20 ","23,48%",Acao,"R$ 120,00","R$ 80,00","R$ 72,00",5 Anos,Sim,Acao
+30,PRIO3,PETROLEO,PETRORIO,"48,65","0,00%",Acao,"48,65",,,,,,,,,,,,,,,,,,,,PRIO3, R$  -   ,"0,00%",Acao,"R$ 0,00","R$ 0,00","R$ 0,00",5 Anos,Sim,Acao
+31,UNIP6,QUIMICO,UNIPAR,"62,45","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,UNIP6," R$  4,22 ","6,76%",Acao,"R$ 70,33","R$ 46,89","R$ 42,20",5 Anos,Sim,Acao
+32,CSMG3,SANEAMENTO,COPASA,"29,11","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,CSMG3," R$  1,95 ","6,71%",Acao,"R$ 32,57","R$ 21,71","R$ 19,54",5 Anos,Sim,Acao
+33,SAPR11,SANEAMENTO,SANEPAR,"33,85","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,SAPR11," R$  1,33 ","3,94%",Acao,"R$ 22,20","R$ 14,80","R$ 13,32",5 Anos,Sim,Acao
+34,SAPR4,SANEAMENTO,SANEPAR,"6,56","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,SAPR4," R$  0,27 ","4,15%",Acao,"R$ 4,53","R$ 3,02","R$ 2,72",5 Anos,Sim,Acao
+35,BBSE3,SEGURO,BB SEGUR.,"32,5","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,BBSE3," R$  2,36 ","7,26%",Acao,"R$ 39,33","R$ 26,22","R$ 23,60",5 Anos,Sim,Acao
+36,CXSE3,SEGURO,CAIXA SEGURIDADE,14,"0,00%",Acao,,,,,,,,,,,,,,,,,,,,,CXSE3," R$  0,74 ","5,27%",Acao,"R$ 12,29","R$ 8,19","R$ 7,38",4 Anos,Sim,Acao
+37,VIVT3,TELEFONIA,VIVO,"34,09","0,00%",Acao,,,,,,,,,,,,,,,,,,,,,VIVT3," R$  2,78 ","8,15%",Acao,"R$ 46,30","R$ 30,87","R$ 27,78",5 Anos,Sim,Acao
+38,BDIF11,FUNDO IMOBILIARIO,FUNDO EM INFRA. BTG PACTUAL DÍVIDA INFRA,"72,25","0,00%",FII,,,,,,,,,,,,,,,,,,,,,BDIF11," R$  10,54 ","14,59%",FII,"R$ 175,67","R$ 117,11","R$ 105,40",4 Anos,Sim,FI-INFRA
+39,BIDB11,FUNDO IMOBILIARIO,INTER FI-INFRA,"77,29","0,00%",FII,,,,,,,,,,,,,,,,,,,,,BIDB11," R$  10,27 ","13,29%",FII,"R$ 171,17","R$ 114,11","R$ 102,70",3 Anos,Sim,FI-INFRA
+40,BTCI11,FUNDO IMOBILIARIO,BTG PACTUAL  F. CRI,"9,19","0,00%",FII,,,,,,,,,,,,,,,,,,,,,BTCI11," R$  1,16 ","12,62%",FII,"R$ 19,33","R$ 12,89","R$ 11,60",3 Anos,Sim,FII PAPEL
+41,CACR11,FUNDO IMOBILIARIO,CARTESIA RECEBIVEIS,"82,48","0,00%",FII,,,,,,,,,,,,,,,,,,,,,CACR11," R$  13,92 ","16,87%",FII,"R$ 231,97","R$ 154,64","R$ 139,18",5 Anos,Sim,FII PAPEL
+42,CDII11,FUNDO IMOBILIARIO,SPARTA INFRA CDI FIC FI-INFRA,"107,52","0,00%",FII,,,,,,,,,,,,,,,,,,,,,CDII11," R$  14,14 ","13,15%",FII,"R$ 235,67","R$ 157,11","R$ 141,40",2 Anos,Sim,FI-INFRA
+43,CPTI11,FUNDO IMOBILIARIO,CAPITANIA INFRA FIC FI-INFRA RF CP,"81,15","0,00%",FII,,,,,,,,,,,,,,,,,,,,,CPTI11," R$  11,39 ","14,03%",FII,"R$ 189,79","R$ 126,53","R$ 113,88",4 Anos,Sim,FI-INFRA
+44,CPTS11,FUNDO IMOBILIARIO,CAPITANIA SECURITIES II,"7,34","0,00%",FII,,,,,,,,,,,,,,,,,,,,,CPTS11," R$  0,91 ","12,40%",FII,"R$ 15,17","R$ 10,11","R$ 9,10",5 Anos,Sim,FII PAPEL
+45,FGAA11,FUNDO IMOBILIARIO,FG AGRO FDO,"8,53","0,00%",FII,,,,,,,,,,,,,,,,,,,,,FGAA11," R$  1,48 ","17,35%",FII,"R$ 24,67","R$ 16,44","R$ 14,80",3 Anos,Sim,FIAGRO
+46,GAME11,FUNDO IMOBILIARIO,GUARDIAN MULTIESTRATEGIA I,"8,49","0,00%",FII,,,,,,,,,,,,,,,,,,,,,GAME11," R$  0,97 ","11,40%",FII,"R$ 16,13","R$ 10,75","R$ 9,68",4 Anos,Sim,FII PAPEL
+47,GARE11,FUNDO IMOBILIARIO,GUARDIAN LOGISTICA,"9,05","0,00%",FII,,,,,,,,,,,,,,,,,,,,,GARE11," R$  0,81 ","8,91%",FII,"R$ 13,43","R$ 8,96","R$ 8,06",5 Anos,Sim,FII TIJOLO
+48,HABT11,FUNDO IMOBILIARIO,HABITAT RECEBIVEIS,"78,5","0,00%",FII,,,,,,,,,,,,,,,,,,,,,HABT11," R$  13,58 ","17,30%",FII,"R$ 226,33","R$ 150,89","R$ 135,80",5 Anos,Sim,FII PAPEL
+49,IFRA11,FUNDO IMOBILIARIO,ITAU FDO INV COTAS FDO INCENT DE INV INFR,"95,09","0,00%",FII,,,,,,,,,,,,,,,,,,,,,IFRA11," R$  10,98 ","11,55%",FII,"R$ 183,00","R$ 122,00","R$ 109,80",4 Anos,Sim,FI-INFRA
+50,JURO11,FUNDO IMOBILIARIO,SPARTA INFRA FIC FI-INFRA,"96,82","0,00%",FII,,,,,,,,,,,,,,,,,,,,,JURO11," R$  12,63 ","13,04%",FII,"R$ 210,42","R$ 140,28","R$ 126,25",4 Anos,Sim,FI-INFRA
+51,KNSC11,FUNDO IMOBILIARIO,KINEA SECURITIES,"8,69","0,00%",FII,,,,,,,,,,,,,,,,,,,,,KNSC11," R$  1,02 ","11,78%",FII,"R$ 17,07","R$ 11,38","R$ 10,24",5 Anos,Sim,FII PAPEL
+52,MCRE11,FUNDO IMOBILIARIO,MAUA CAPITAL,"8,46","0,00%",FII,,,,,,,,,,,,,,,,,,,,,MCRE11," R$  1,32 ","15,63%",FII,"R$ 22,04","R$ 14,69","R$ 13,23",4 Anos,Sim,FII PAPEL
+53,MXRF11,FUNDO IMOBILIARIO,MAX RENDA,"9,56","0,00%",FII,,,,,,,,,,,,,,,,,,,,,MXRF11," R$  1,11 ","11,65%",FII,"R$ 18,57","R$ 12,38","R$ 11,14",5 Anos,Sim,FII PAPEL
+54,PORD11,FUNDO IMOBILIARIO,POLO CAPITAL,"7,9","0,00%",FII,,,,,,,,,,,,,,,,,,,,,PORD11," R$  1,09 ","13,80%",FII,"R$ 18,17","R$ 12,11","R$ 10,90",5 Anos,Sim,FII PAPEL
+55,RURA11,FUNDO IMOBILIARIO,ITAU RURAL FIAGRO,"8,1","0,00%",FII,,,,,,,,,,,,,,,,,,,,,RURA11," R$  1,12 ","13,83%",FII,"R$ 18,67","R$ 12,44","R$ 11,20",3 Anos,Sim,FIAGRO
+56,RZAG11,FUNDO IMOBILIARIO,FDO RIZA AGRO,"8,93","0,00%",FII,,,,,,,,,,,,,,,,,,,,,RZAG11," R$  1,12 ","12,51%",FII,"R$ 18,63","R$ 12,42","R$ 11,18",4 Anos,Sim,FIAGRO
+,SNAG11,FUNDO IMOBILIARIO,SUNO AGRO,"9,56","0,00%",FII,,,,,,,,,,,,,,,,,,,,,SNAG11," R$  1,02 ","10,63%",FII,"R$ 16,94","R$ 11,30","R$ 10,17",3 Anos,Sim,FIAGRO
+,VGHF11,FUNDO IMOBILIARIO,VALORA HEDGE,"7,69","0,00%",FII,,,,,,,,,,,,,,,,,,,,,VGHF11," R$  1,27 ","16,45%",FII,"R$ 21,08","R$ 14,06","R$ 12,65",4 Anos,Sim,FII PAPEL
+,VGIA11,FUNDO IMOBILIARIO,VALORA PROD AGRO,"9,06","0,00%",FII,,,,,,,,,,,,,,,,,,,,,VGIA11," R$  1,48 ","16,30%",FII,"R$ 24,61","R$ 16,41","R$ 14,77",3 Anos,Sim,FIAGRO
