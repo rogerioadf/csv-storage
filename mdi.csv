@@ -33,7 +33,7 @@ CSMG3,,,OK,,OK,,,,OK,,OK,,SANEAMENTOSA,Acao,,,,,MAR /,,MAI /,,,,SET /,,NOV /,,MA
 SAPR11,,,,,,,OK,,,,,OK,SANEAMENTOSA,Acao,,,,,,,,,JUL /,,,,,DEZ,JUL /DEZ,,,,
 SAPR4,,,,,,,OK,,,,,OK,SANEAMENTOSA,Acao,,,,,,,,,JUL /,,,,,DEZ,JUL /DEZ,,,,
 BBSE3,,OK,,,,,,OK,,,,,SEGURO,Acao,,,,FEV /,,,,,,AGO /,,,,,FEV /AGO /,,,,
-CXSE3,,,,OK,,,,,,,OK,,SEGURO,Acao,,,,,,ABR /,,,,,,,NOV /,,ABR /NOV /,,,,
+CXSE3,OK,,,OK,,,,OK,,OK,OK,,SEGURO,Acao,,,JAN /,,,ABR /,,,,AGO /,,OUT /,NOV /,,JAN /ABR /AGO /OUT /NOV /,,,,
 VIVT3,,OK,,OK,,OK,,,OK,,,OK,TELEFONIA,Acao,,,,FEV /,,ABR /,,JUN /,,,SET /,,,DEZ,FEV /ABR /JUN /SET /DEZ,,,,
 CPFE3,,,,OK,,,,OK,,,,,,Acao,,,,,,ABR /,,,,AGO /,,,,,ABR /AGO /,,,,
 AZIN11,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK,FII,FII,,,JAN /,FEV /,MAR /,ABR /,MAI /,JUN /,JUL /,AGO /,SET /,OUT /,NOV /,DEZ,JAN /FEV /MAR /ABR /MAI /JUN /JUL /AGO /SET /OUT /NOV /DEZ,,,,
